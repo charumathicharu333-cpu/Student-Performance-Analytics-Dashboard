@@ -17,6 +17,6 @@ Python | Streamlit | Pandas | Plotly
 
 I'm continuously learning and building projects to strengthen my technical skills and prepare for exciting opportunities in the IT industry.
 
-🔗 GitHub Repository:https://github.com/charumathicharu333-cpu/Student-Performance-Analytics
+🔗 GitHub Repository:https://github.com/charumathicharu333-cpu/Student-Performance-Analytics-Dashboard
 
 #Python #DataAnalytics #Streamlit #Pandas #DataVisualization #StudentProject #LearningByDoing #GitHub #ProjectShowcase #GradeGlow
